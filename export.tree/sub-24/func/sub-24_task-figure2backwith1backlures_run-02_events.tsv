@@ -1,0 +1,129 @@
+onset	duration	trial_type
+7.5272	1.5134	distractor correct rejection
+11.1514	1.5134	distractor correct rejection
+14.5765	1.5134	distractor correct rejection
+18.2007	1.5134	distractor correct rejection
+22.2232	1.5133	distractor false alarm
+26.2456	1.5134	distractor correct rejection
+30.0689	1.5135	distractor correct rejection
+33.2949	1.5134	distractor correct rejection
+36.3217	1.5134	distractor correct rejection
+39.9459	1.5134	lure correct rejection
+42.9727	1.5134	distractor correct rejection
+46.5969	1.5134	distractor correct rejection
+49.8228	1.5134	distractor correct rejection
+53.6462	1.5134	distractor correct rejection
+57.4695	1.5134	lure correct rejection
+60.8946	1.5134	distractor correct rejection
+64.5188	1.5134	distractor correct rejection
+68.3421	1.5134	distractor correct rejection
+72.1654	1.5134	lure correct rejection
+75.7896	1.5134	distractor correct rejection
+79.4138	1.5134	distractor correct rejection
+83.2372	1.5134	distractor correct rejection
+86.264	1.5134	distractor correct rejection
+89.2908	1.5134	lure correct rejection
+92.5167	1.5134	distractor correct rejection
+96.5392	1.5134	distractor correct rejection
+99.9642	1.5134	lure correct rejection
+102.991	1.5134	distractor correct rejection
+106.8144	1.5134	distractor correct rejection
+110.8368	1.5134	lure correct rejection
+114.6602	1.5134	distractor correct rejection
+118.0852	1.5134	distractor correct rejection
+121.7094	1.5134	distractor correct rejection
+125.7319	1.5134	distractor correct rejection
+129.3561	1.5134	distractor correct rejection
+132.3829	1.5134	target hit
+135.6088	1.5135	distractor correct rejection
+139.6313	1.5134	distractor correct rejection
+143.4546	1.5134	distractor correct rejection
+146.4814	1.5134	target miss
+150.1056	1.5134	distractor correct rejection
+153.7299	1.5134	lure correct rejection
+156.9558	1.5134	distractor correct rejection
+160.9782	1.5134	distractor correct rejection
+165.0007	1.5134	distractor correct rejection
+168.824	1.5134	distractor correct rejection
+172.2491	1.5134	lure correct rejection
+175.475	1.5135	distractor correct rejection
+179.4975	1.5134	distractor correct rejection
+182.5243	1.5134	distractor correct rejection
+185.7503	1.5134	lure correct rejection
+189.3745	1.5134	distractor correct rejection
+193.3969	1.5134	distractor correct rejection
+196.6228	1.5135	distractor correct rejection
+200.6453	1.5134	distractor correct rejection
+203.8713	1.5134	target hit
+207.2963	1.5134	distractor correct rejection
+210.9205	1.5134	distractor correct rejection
+214.3456	1.5134	lure correct rejection
+217.5715	1.5134	distractor correct rejection
+220.5983	1.5134	distractor correct rejection
+224.2225	1.5134	distractor correct rejection
+227.6476	1.5134	distractor correct rejection
+231.1656	1.5134	lure correct rejection
+234.6836	1.5134	distractor correct rejection
+238.3078	1.5134	distractor correct rejection
+241.7329	1.5134	distractor correct rejection
+245.3571	1.5134	target hit
+249.1804	1.5134	distractor correct rejection
+253.2029	1.5134	distractor correct rejection
+257.0262	1.5134	lure correct rejection
+261.0487	1.5134	distractor correct rejection
+264.0755	1.5134	distractor correct rejection
+268.0979	1.5134	distractor correct rejection
+271.7221	1.5134	distractor correct rejection
+274.7489	1.5134	target hit
+278.17400000000004	1.5134	distractor correct rejection
+282.1965	1.5134	distractor correct rejection
+286.2189	1.5134	distractor correct rejection
+290.0423	1.5134	lure correct rejection
+293.4673	1.5134	target miss
+296.4941	1.5134	distractor correct rejection
+299.5209	1.5134	distractor correct rejection
+302.5477	1.5134	distractor correct rejection
+305.9728	1.5134	lure false alarm
+309.1988	1.5134	distractor correct rejection
+312.6238	1.5134	distractor correct rejection
+316.4471	1.5135	distractor correct rejection
+319.6731	1.5134	target miss
+322.6999	1.5134	distractor correct rejection
+325.9258	1.5134	distractor correct rejection
+329.9483	1.5134	target hit
+332.9751	1.5134	distractor correct rejection
+336.20099999999996	1.5134	distractor correct rejection
+339.42699999999996	1.5134	distractor correct rejection
+342.852	1.5134	distractor correct rejection
+346.2771	1.5134	target hit
+349.9013	1.5134	distractor correct rejection
+353.9238	1.5134	distractor correct rejection
+357.548	1.5134	target miss
+360.5748	1.5134	distractor correct rejection
+363.9998	1.5134	distractor correct rejection
+367.4249	1.5134	distractor correct rejection
+370.6509	1.5134	lure false alarm
+374.6733	1.5134	target miss
+378.4966	1.5135	distractor correct rejection
+381.7226	1.5134	distractor correct rejection
+385.5459	1.5134	distractor correct rejection
+388.5727	1.5134	target hit
+392.5952	1.5134	distractor correct rejection
+395.8211	1.5134	distractor correct rejection
+399.0471	1.5134	distractor correct rejection
+402.6713	1.5134	target hit
+406.4946	1.5134	distractor correct rejection
+409.7205	1.5134	distractor correct rejection
+413.5439	1.5134	target hit
+416.5707	1.5134	distractor correct rejection
+419.5975	1.5134	lure correct rejection
+423.0225	1.5134	distractor correct rejection
+426.8459	1.5134	distractor correct rejection
+429.8727	1.5134	distractor correct rejection
+433.2977	1.5134	target hit
+436.9219	1.5134	distractor correct rejection
+440.7453	1.5134	distractor correct rejection
+444.5686	1.5134	distractor correct rejection
+447.9937	1.5134	lure correct rejection
+451.2196	1.5134	distractor correct rejection
+454.6447	1.5134	distractor correct rejection
